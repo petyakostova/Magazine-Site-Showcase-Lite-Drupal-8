@@ -5,3 +5,4 @@ Magazine Website with articles and events, created with Drupal 8 and Acquia Dev 
 
 * [Task](/documents/site-building-task.pdf)
 * [My solution - Explanation](/documents/Solution%20-%20Magazine%20website%20-%20my%20first%20Drupal%20website.docx)
+* [Screenshots](screenshots/)
