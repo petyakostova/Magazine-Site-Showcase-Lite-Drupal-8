@@ -7,6 +7,6 @@ Magazine Website with articles and events, created with Drupal 8 and Acquia Dev 
 * [My solution - Explanation](/documents/Solution%20-%20Magazine%20website%20-%20my%20first%20Drupal%20website.docx)
 * [Screenshots](screenshots/)
 
-![Events Screenshot](\screenshots\1-events.png "Events Screenshot")
+![Events Screenshot](screenshots\1-events.png)
 
-![Sports Screenshot](\screenshots\2-sports.png "Sports Screenshot")
+![Sports Screenshot](screenshots\2-sports.png)
